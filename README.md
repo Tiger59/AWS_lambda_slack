@@ -1,0 +1,2 @@
+# AWS_lambda_slack
+AWSを用いたサーバレススクレイピングアプリです
